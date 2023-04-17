@@ -1,4 +1,4 @@
-# demoblaze.com-Selenium Java
+# demoblaze.com-Selenium-Java-Testng
 Add Test Cases for demoblaze.com
 1) Register user
 2) login with valid user
